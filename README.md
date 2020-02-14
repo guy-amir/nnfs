@@ -1,2 +1,2 @@
 # nnfs
-create a NN library from scratch
+Creating a new neural network library from scratch.
